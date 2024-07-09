@@ -1,0 +1,1 @@
+SELECT author_fname,author_lname,title,MIN(released_year)FROM booksz GROUP BY  author_fname;

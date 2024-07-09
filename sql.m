@@ -1,0 +1,1 @@
+SELECT title,MAX(pages) FROM booksz;
